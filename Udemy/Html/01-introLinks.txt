@@ -1,0 +1,9 @@
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/b
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/em
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/i
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/strong
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/mark
