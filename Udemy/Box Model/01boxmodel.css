@@ -2,13 +2,25 @@
     background-color: #0000ff;
     width: 50%;
     height: 100px;
+    margin: 50px 0 0 50px;
 
 }
 
 .second{
     background-color: #56c899;
+    margin: 500px 0 0 100px;
 }
 
 .third{
     background-color: #db41ad;
+    padding: 30px 0 0 40px;
+}
+
+.size{
+    width: 50%;
+    height: 100px;
+}
+
+.borda{
+   border: 10px solid red; 
 }
